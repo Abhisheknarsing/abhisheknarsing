@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://twitter.com/abhisheknarsing" style="margin-right: 20px; text-decoration: none;">
-  <img alt="Abhishek Narsing width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <br />
