@@ -3,10 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Avayuktha
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on Capgemini
+- 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with block chain specalist
 - 💬 Ask me about Technology
 - 📫 How to reach me: +91 9346202314
 - 😄 Pronouns: Abhi
