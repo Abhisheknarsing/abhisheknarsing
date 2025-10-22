@@ -1,68 +1,96 @@
 ### Hi there 👋
 
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Capgemini
-- 🌱 I’m currently learning Generative AI
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Technology
-- 📫 How to reach me: +91 9346202314
-- 😄 Pronouns: Abhi
-- ⚡ Fun fact: i am Mechanical Graduate
+- 🔭 I'm currently working on **Capgemini** as a **Senior Consultant**
+- 🌱 I'm currently learning **Generative AI**
+- 💬 Ask me about **Technology**
+- 📫 How to reach me: **+91 9348202314**
+- 😄 Pronouns: **Abhi**
+- ⚡ Fun fact: **I am a Mechanical Engineering Graduate**
 
+## Hey there! I'm Abhishek Narsing.
 
+### 👨🏻‍💻 About Me
 
-<h2> Hey there! I'm Abhishek Narsing.</h2>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions
+- 🎓 &nbsp; Graduated in Mechanical Engineering at AVN Institute of Technology, Hyderabad
+- 🔭 &nbsp; I'm currently working as a Senior Software Developer
+- 🌱 &nbsp; Learning more about Full Stack Web development, Machine Learning, and Generative AI
+- 💻 &nbsp; With over 5.9+ years of experience in software development
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 🛠 Tech Stack
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated in Mechanical Engineering at AVN Institute of Technology, Hyderabad.
-- 🔭 &nbsp; I’m currently Working
-- 🌱 &nbsp; Learning more about Full Stack Web development, Machine Learning and Artificial Intelligence.
-- 💻 &nbsp; Freelancer
+- 💻 &nbsp; Java | Python | Go lang
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | React | Angular | Node.js | Express | Flask | Django
+- 🛢 &nbsp; MySQL | MongoDB | Firebase | Chroma DB
+- 🔧 &nbsp; Git | Maven | Gradle | Jenkins | Docker | Kubernetes
+- ☁️ &nbsp; AWS | Azure | Firebase
+- 🤖 &nbsp; GenAI | Machine Learning | Deep Learning | TensorFlow | OpenCV
+- 🧠 &nbsp; Spring Boot | Microservices | REST APIs | SOAP | GraphQL
 
-<h3>🛠 Tech Stack</h3>
+### 📈 Key Skills
 
-- 💻 &nbsp; Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Express | React | Sass
-- 🛢 &nbsp; MySQL | MongoDB | Firebase
-- 🔧 &nbsp; Git | Markdown | Postman
-- 🖥 &nbsp; Photoshop | XD
-- ✍️ &nbsp; Visual studio code | Atom
+- **Backend Technologies**: Java, J2EE, Spring Boot, Spring MVC, Spring JPA, Python (Django, Flask), NodeJS
+- **Frontend Technologies**: HTML, CSS, JavaScript, TypeScript, jQuery, React, Angular, Tailwind CSS
+- **Web Services**: SOAP, REST, Spring Restful Web services
+- **Microservices**: Microservices Architecture, Spring Boot, Docker, Kubernetes
+- **Cloud Technologies**: AWS (EC2, S3, Lambda, RDS, Rekognition, EBS, IAM), Azure, Firebase, VPS, AI Foundry
+- **DevOps & Tools**: GIT, Maven, Ant, Gradle, Docker, Kubernetes, Jenkins, CI/CD pipelines
+- **Testing & Logging**: JUnit, Mockito, SLF4J, Log4j
+- **Methodologies & Servers**: Waterfall, Agile, Tomcat, JBoss, WebLogic
+- **Other Technologies**: Event-driven architecture, Sales applications, GenAI, Chroma DB
+
+### 💼 Work Experience
+
+**Capgemini** (Nov 2021 - Present) - *Senior Consultant*
+- Designed and developed microservices architecture using Spring Boot for modular and scalable applications
+- Developed and maintained Enterprise GenAI applications using OpenAI and Anthropic API
+- Created RfxBuddy, a GENAI-based RFP response system that helps presales teams write better RFP responses
+- Worked extensively with AWS Cloud services and vector databases
+- Plan, coordinate and execute project activities to ensure timely completion
+
+**AVYUKTHA** (Apr 2020 - Apr 2021) - *Software Developer*
+- Developed full-stack applications using Python (Django, Flask) and JavaScript frameworks
+- Implemented machine learning and deep learning models using TensorFlow and Scikit Learn
+- Migrated Python ML Scripts to REST based application for Smart Analytics project
+
+**ELLIPSOIDS INFO SOLUTIONS** (Jun 2019 - Mar 2020) - *Software Engineer*
+- Developed web applications using J2EE technologies
+- Worked on RESTful web services and SOAP services
+- Developed image processing techniques for INaa project using CNN networks
+
+### 🚀 Featured Projects
+
+**RfxBuddy**
+- GENAI based RFP response system that helps the presales team write better RFP responses
+- Technologies: Python, Flask, Langchain, GenAI, Azure OpenAI, Chroma DB
+**SparkStop**
+- EV charging station management system using OCPP protocol
+- Technologies: Go lang, Gin, OCPP, Socket.io, Web Sockets
+
+**Smart Analytics**
+- Incident management system with ML operations
+- Technologies: Core Java, Spring Boot, SVN, Maven, Jenkins, Azure, Python, Flask, Machine Learning, ReactJS
+
+**INaa (prototype)**
+- Shopping application with virtual outfit trying using CNN networks
+- Technologies: Python, TensorFlow, OpenCV, Node JS, Firebase, AWS
 
 <br/>
 
+### 🤝🏻 Connect with Me
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<a href="https://nabhishek.com"  style="margin-right: 20px; text-decoration:none;">
-  <img alt="abhishek" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/googlechrome.svg" />
+<a href="mailto:abhisheknarsing819@gmail.com" style="margin-right: 20px; text-decoration:none;">
+  <img alt="abhisheknarsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
-<a href="https://codepen.io/abhisheknarsing"  style="margin-right: 20px; text-decoration:none;">
-  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/abhisheknarsing"  style="margin-right: 20px; text-decoration:none;">
+<a href="https://www.linkedin.com/in/narsing-abhishek" style="margin-right: 20px; text-decoration:none;">
   <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/abhishekNarsing"  style="margin-right: 20px; text-decoration:none;">
-  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.hackerrank.com/abhishekNarsing" style="margin-right: 20px; text-decoration:none;">
-  <img alt="Abhishek Narsing Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.facebook.com/abhisheknarsing/"  style="margin-right: 20px; text-decoration:none;">
-  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/abhishek_narsing"  style="margin-right: 20px; text-decoration: none;">
-  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
-</a>
 
-<a href="https://www.youtube.com/c/abhisheknarsing"  style="margin-right: 20px; text-decoration: none;">
-  <img alt="Abhishek Narsings Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" />
+<a href="https://github.com/Abhisheknarsing" style="margin-right: 20px; text-decoration:none;">
+  <img alt="Abhishek Narsing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://twitter.com/abhisheknarsing" style="margin-right: 20px; text-decoration: none;">
