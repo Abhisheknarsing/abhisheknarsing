@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on **Capgemini** as a **Senior Consultant**
+- 🔭 I'm currently working on **Mphasis** as a **Module Lead**
 - 🌱 I'm currently learning **Generative AI**
 - 💬 Ask me about **Technology**
 - 📫 How to reach me: **+91 9348202314**
